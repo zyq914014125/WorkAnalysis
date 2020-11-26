@@ -1,0 +1,17 @@
+startUrl="https://www.51job.com/"
+#工作名输入框id
+workinputId="kwdselectid"
+#翻页输入框id
+pageinputId="jump_page"
+#翻页按钮Xpath
+pageButton="/html/body/div[2]/div[3]/div/div[2]/div[4]/div[2]/div/div/div/span[4]"
+#公司性质
+companyNature=['民营','国企','外资（欧美）','上市','合资','创业','非营利组织','外资（非欧美）']
+#人数
+conpanySize=['少于50','50-150','150-500','500-1000','1000-5000','10000以上']
+#地区
+city=['成都','异地']
+#经验
+experience=['无需','1年','2年','3-4','5-7','8-9','在校应届']
+#学历
+education=['大专','本科','硕士','博士']
